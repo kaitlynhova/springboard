@@ -8,6 +8,6 @@ This repository is for Springboard's Machine Learning for Engineers course.
 
 ## Folders
 
-| Folder Info               |
+| Folder                    | Info                                                                                    |
 | ------------------------- | --------------------------------------------------------------------------------------- |
 | SetUpGithubForSpringboard | Followed [the instructed YouTube tutorial](https://www.youtube.com/watch?v=E4MkXGm0vbI) |
